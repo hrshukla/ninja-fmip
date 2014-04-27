@@ -11,7 +11,8 @@
     "url": ""
   },
   "dependencies": {
-    "geolib":"latest"
+    "geolib": "1.3.1",
+    "longjohn": "~0.2.4"
   },
   "keywords": [
     "sensor",
